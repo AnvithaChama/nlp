@@ -1,1 +1,2 @@
-Our objective is to develop an automated system to detect indications of suicidal tendencies in textual data.
+SUICIDE DETECTION
+Create a text analysis tool that can precisely detect and examine text messages associated with suicidal content.
